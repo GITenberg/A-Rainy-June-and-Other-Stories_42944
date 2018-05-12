@@ -1,0 +1,37 @@
+_repo: A-Rainy-June-and-Other-Stories_42944
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42944-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - De la Ramee, Louise
+    - Ramée, Maria Louise
+    - Uida
+    - Ramé, Marie Louise
+    - De la Ramée, Louisa
+    - De la Ramée, Louise
+    - De La Rame, Louisa
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_issued: '2013-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: A rainy June -- Don Gesualdo -- The silver Christ -- A lemon-tree.
+title: A Rainy June, and Other Stories
+url: http://www.gutenberg.org/ebooks/42944
